@@ -1,0 +1,2 @@
+# adminservicerepo
+Admin MicroService
